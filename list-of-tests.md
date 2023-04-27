@@ -10,3 +10,5 @@ will be using VR pico neo 3 Link
   - [ ] VRAM
   - [ ] power
   - [ ] frametime
+
+replay name: jerez\ tv\ mixed\ gpu\ bash.rpy
